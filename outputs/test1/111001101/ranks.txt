@@ -1,0 +1,3 @@
+Initial rank: 1
+Final rank: 2
+Rank diff: 1

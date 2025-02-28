@@ -1,0 +1,3 @@
+Initial rank: 9
+Final rank: 13
+Rank diff: 4
